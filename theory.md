@@ -35,9 +35,10 @@ missing values and duplicate values
 a. Definition.
 Unsupervised learning is a type of machine learning (ML) algorithm 
 which does not rely on labelled data. Instead, unsupervised learning infers a structure from
-unlabelled data and then classifies items according to that structure
+unlabelled data and then classifies items according to that structure e.g. it may put customers who bought baby formula and
+nappies in one group (parents)
 #### b. When is it used?
-Unsupervised learning is used when you don't have any labelled data
+Unsupervised learning is used when you don't have any labelled data or in semi supervised learning (some labelled data, majority unlabelled data)
 #### c. What is a possible real-world application of unsupervised learning?
 Unsupervised learning is used in customer suggestions on Amazon "Customers like you bought"
 #### d. What are its main limitations? 7.5 points
