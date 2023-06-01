@@ -21,7 +21,7 @@ than 0 or more than 24 hours. A lack of data may be another issue - if you do no
 
 ### 1.3 Describe the concepts of data cleaning and data quality. Here we expect to see the following:
 #### a. What is data cleaning?
-Data cleaning is the process of making data suitable for later analysis. This involves removing any 
+Data cleaning is the process of making data suitable for later analysis. This involves dealing with (replacing or removing) any 
 irrelevant data (duplicate values), standardising data (e.g. correcting misspellings in the data) and removing null values
 #### b. Why is data cleaning important?
 Data cleaning is important because you may come to erroneous/incomplete conclusions if data is not cleaned correctly. 
